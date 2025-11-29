@@ -35,7 +35,8 @@ Essa implementação atende ao que é solicitado nos conteúdos de Estruturas de
 ponteiros, alocação dinâmica, modularização via TAD, manipulação de registros e listas duplamente encadeadas.
 
 ## 🧠 Código-fonte (TAD + Funções + Demonstração no main)
-'''
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -186,7 +187,9 @@ int main() {
 
     return 0;
 }
-'''
+```
+
+
 
 ## 📋 Licença
 
